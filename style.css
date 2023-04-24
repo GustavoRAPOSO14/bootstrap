@@ -1,0 +1,65 @@
+
+.navbar-brand img{
+    width:auto;
+    height: 60px;
+    margin-right: 0.6rem;
+    border-right: 1px solid gray ;
+}
+
+.container-fluid a{
+    font-size: 1.25rem;
+}
+
+
+.social{
+    padding-left: 1.875rem;
+    padding-right: 1.875rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    text-align: center; 
+
+}
+
+.socials{
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.style__socialLink_23jlB{
+    margin-right: 1.25rem;
+    --text-opacity: 1;
+    color: #ffffff;
+    color: rgba(255, 255, 255, var(--text-opacity));
+    transition-duration: 100ms;
+    transition-timing-function: linear;
+    --transform-translate-x: 0;
+    --transform-translate-y: 0;
+    --transform-rotate: 0;
+    --transform-skew-x: 0;
+    --transform-skew-y: 0;
+    --transform-scale-x: 1;
+    --transform-scale-y: 1;
+    transform: translateX(var(--transform-translate-x)) translateY(var(--transform-translate-y)) rotate(var(--transform-rotate)) skewX(var(--transform-skew-x)) skewY(var(--transform-skew-y)) scaleX(var(--transform-scale-x)) scaleY(var(--transform-scale-y));
+    fill: currentColor;
+}
+
+.card-group{
+    padding:2%;
+    
+}
+
+.card{
+    margin: 2%;
+}
+
+.card h5{
+    font-size: 1.5rem;
+    color: #1e458a;
+    font-weight: 600x;
+    
+}
+
+.col{
+    margin: 0,5%;
+}
